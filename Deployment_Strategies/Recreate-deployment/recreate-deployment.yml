@@ -18,7 +18,7 @@ spec:
         app: online-shop
     spec:
       containers:
-      - image: amitabhdevops/online_shop_without_footer
+      - image: amitabhdevops/online_shop
         name: online-shop
         resources:
           limits:
